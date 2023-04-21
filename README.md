@@ -1,5 +1,11 @@
 Hi, thanks for trying out KeypresSfx
 
+To launch the program double click the exec in the first directory called KeypresSfx
+
+It might ask for permissions for keypresses because the program is listening for keypresses to play the sounds.
+
+The program runs in a terminal window
+
 The startup process takes a second or two based on how fast your processor is.
 
 You will know that the program is working correctly IF:
